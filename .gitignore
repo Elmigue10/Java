@@ -1,12 +1,12 @@
-**/nbproject
-**/target
-**/build
-**/META-INF
-**/.gradle
-**/gradle
+**/nbproject/*
+**/target/*
+**/build/*
+**/META-INF/*
+**/.gradle/*
+**/gradle/*
 
 # IDEs and editors
-/.idea
+*/.idea
 .project
 .classpath
 .c9/
@@ -15,7 +15,7 @@
 *.sublime-workspace
 
 # IDE - VSCode
-.vscode/*
+*/.vscode/*
 !.vscode/settings.json
 !.vscode/tasks.json
 !.vscode/launch.json
